@@ -1,6 +1,3 @@
-
-https://user-images.githubusercontent.com/71687063/115752514-9b01ec00-a3b3-11eb-9c65-975f3b8ad981.mp4
-
 # BlurHash
 
 ## Blurhash Image Place Holder
